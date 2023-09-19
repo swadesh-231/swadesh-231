@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/swadesh072" target="blank"><img src="https://img.shields.io/twitter/follow/swadesh072?logo=twitter&style=for-the-badge" alt="swadesh072" /></a> </p>
 
-- 🌱 I’m currently learning **Numpy,Pandas,Matplotlib**
+- 🌱 I’m currently learning **Mechine Learning**
 
 - 💬 Ask me about **Java,Python,DataAnalysis,MechineLearning**
 
