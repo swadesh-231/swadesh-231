@@ -1,25 +1,85 @@
-# Hi 👋, I'm Swadesh Chatterjee
+<h1 align="center">Hi 👋, I'm Swadesh Chatterjee</h1>
+<h3 align="center">Backend Engineer | Java & Spring Boot | Building Scalable Systems</h3>
 
-### Passionate Engineer
-
-<p align="left"> <a href="https://twitter.com/Swadesh072" target="blank"><img src="https://img.shields.io/twitter/follow/Swadesh072?logo=twitter&style=for-the-badge" alt="Swadesh072" /></a> </p>
-
-- 🔭 I'm currently working on **Booking System Backend**
-
-- 🌱 I'm currently learning **Backend Technology**
-
-- 💬 Ask me about **Java,Spirng Boot, Database,Problem Solving**
-
-- 📫 How to reach me **swadeshchatterjee512@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/swadesh-231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="swadesh-231" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swadeshchatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swadeshchatterjee" height="30" width="40" /></a>
-<a href="https://twitter.com/Swadesh072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Swadesh072" height="30" width="40" /></a>
-<a href="https://leetcode.com/swadesh072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swadesh072" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/Swadesh072" target="_blank"><img src="https://img.shields.io/twitter/follow/Swadesh072?logo=twitter&style=for-the-badge" alt="Swadesh072" /></a>
+  <a href="https://github.com/swadesh-231" target="_blank"><img src="https://img.shields.io/github/followers/swadesh-231?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+### 🚀 About Me
+
+- 🌱 Deepening my expertise in **Backend Architecture & Distributed Systems**
+- 💬 Ask me about **Java, Spring Boot, Databases, System Design & Problem Solving**
+- 📫 Reach me at **swadeshchatterjee512@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python,typescript,javascript" alt="Languages" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,graphql,kafka,rabbitmq" alt="Backend" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="Databases" />
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,heroku,git" alt="DevOps" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css" alt="Frontend" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma" alt="Tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swadesh-231&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swadesh-231&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadesh-231&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/swadeshchatterjee" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Swadesh072" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/swadesh-231" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/swadesh072" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swadesh-231&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
