@@ -21,7 +21,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,python,typescript,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python" alt="Languages" />
 </p>
 
 **Backend & Frameworks**
