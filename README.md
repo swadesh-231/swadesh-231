@@ -1,69 +1,73 @@
 <!--
   README.md — Swadesh Chatterjee
-  Backend Engineer · Java & Spring Boot
-  ────────────────────────────────────────────────────
+  Backend Engineer · Java & Spring Boot · Distributed Systems
+  ──────────────────────────────────────────────────────────
   Notes:
-   - GitHub Stats and Top Languages are now powered by
-     `github-profile-summary-cards` (separate Vercel
-     deployment) because the public github-readme-stats
-     instance has been rate-limited throughout 2025–2026.
-   - Streak Stats use streak-stats.demolab.com (the
-     Heroku version was deprecated).
+   - GitHub Stats / Top Languages use `github-profile-summary-cards`
+     (separate Vercel deployment) because the public
+     github-readme-stats instance has been rate-limited 2025–2026.
+   - Streak Stats use streak-stats.demolab.com (Heroku version deprecated).
+   - The Mermaid block below renders natively on GitHub — no external service.
+   - Replace the repo links in "Featured Work" with your real repos.
 -->
 
 <div align="center">
 
 <h1>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Swadesh Chatterjee
+  Hi, I'm Swadesh Chatterjee
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
 </h1>
 
 <a href="https://github.com/swadesh-231">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+Distributed+Systems;Database+Optimization+%26+System+Design;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="typing-banner" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%A2+Java+%26+Spring+Boot;Distributed+Systems+%E2%80%A2+Event-Driven+Architecture;PostgreSQL+Tuning+%E2%80%A2+Caching+%E2%80%A2+Sub-100ms+p99;Full-Stack+when+it+counts+%E2%80%A2+Next.js+%2B+TypeScript"
+    alt="typing-banner"
+  />
 </a>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/swadeshchatterjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/Swadesh072"><img src="https://img.shields.io/badge/@Swadesh072-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://leetcode.com/u/swadesh072/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:swadeshchatterjee512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/>
-
-<a href="https://twitter.com/Swadesh072" target="_blank">
-  <img src="https://img.shields.io/badge/Follow-@Swadesh072-1DA1F2?logo=x&style=for-the-badge&logoColor=white" alt="Follow on X" />
-</a>
-<a href="https://github.com/swadesh-231" target="_blank">
-  <img src="https://img.shields.io/github/followers/swadesh-231?logo=github&style=for-the-badge&label=Followers" alt="GitHub followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=swadesh-231&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/swadesh-231?logo=github&style=flat-square&label=Followers&color=58A6FF" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=swadesh-231&label=Profile%20Views&style=flat-square&color=0e75b6" alt="views" />
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ─────────────────────────────────────────────────── -->
-<!--   ABOUT ME (left) + STATS CARD (right)             -->
-<!-- ─────────────────────────────────────────────────── -->
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="56%">
 
-### 🚀 About Me
+### 🧭 About
 
 ```yaml
-name:        Swadesh Chatterjee
-role:        Backend Engineer
-focus:       Distributed Systems · Microservices
-stack:       Java · Spring Boot · PostgreSQL · Kafka
-location:    India 🇮🇳
-contact:     swadeshchatterjee512@gmail.com
+name:      Swadesh Chatterjee
+role:      Backend Engineer
+primary:   Java · Spring Boot · PostgreSQL · Kafka
+secondary: TypeScript · Next.js · React · Node/Bun
+domains:   Distributed Systems · Microservices · API Design
+location:  Bengaluru, India 🇮🇳
+email:     swadeshchatterjee512@gmail.com
 ```
 
-- 🔭 &nbsp;Currently building **scalable backend services** with Java & Spring Boot
-- 🌱 &nbsp;Deepening expertise in **System Design, Distributed Systems & Event-Driven Architecture**
-- 💬 &nbsp;Ask me about **Java, Spring Boot, Kafka, PostgreSQL, Redis & REST/GraphQL APIs**
-- 🧠 &nbsp;Sharpening problem-solving on **LeetCode** &mdash; clean code, optimal complexity
-- ⚡ &nbsp;Fun fact: I obsess over **clean architecture** and **sub-100ms p99 latency**
+**What I actually do:** design and ship backend services that stay
+correct under concurrency and fast under load — clean domain
+boundaries, well-indexed schemas, idempotent APIs, and
+observability baked in from day one.
+
+- 🔭 Building **event-driven microservices** on Spring Boot + Kafka
+- 🧱 Deep in **JVM concurrency**, **JPA/Hibernate internals**, and **query planning**
+- ⚡ Chasing **sub-100 ms p99** through caching, connection pooling, and N+1 elimination
+- 🎯 Ship full-stack when the product needs it — **Next.js 16 + TypeScript** front ends
+- 🧠 Sharpening DSA on **LeetCode**: optimal complexity, readable code
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="44%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadesh-231&theme=tokyonight" alt="profile-details" />
 
@@ -73,77 +77,90 @@ contact:     swadeshchatterjee512@gmail.com
 
 ---
 
-<!-- ─────────────────────────────────────────────────── -->
-<!--   CURRENTLY WORKING ON                              -->
-<!-- ─────────────────────────────────────────────────── -->
+### 🏗️ How I Architect a Service
 
-### 💼 Currently Working On
+```mermaid
+flowchart LR
+    C["Next.js 16<br/>React · TypeScript"] -->|HTTPS| GW["API Gateway<br/>Spring Cloud Gateway"]
+    GW -->|JWT / RBAC| AUTH["Auth Service<br/>Spring Security"]
+    GW --> SVC["Domain Services<br/>Spring Boot · REST + GraphQL"]
 
-```java
-public class Swadesh {
-    public static void main(String[] args) {
-        Engineer me = Engineer.builder()
-            .name("Swadesh Chatterjee")
-            .role("Backend Engineer")
-            .languages(List.of("Java", "TypeScript", "Go", "Python"))
-            .frameworks(List.of("Spring Boot", "GraphQL"))
-            .databases(List.of("PostgreSQL", "MongoDB", "Redis"))
-            .cloud(List.of("AWS", "Docker", "Kubernetes"))
-            .currentlyLearning("Distributed System Design at Scale")
-            .build();
+    SVC -->|Read-through| RD[("Redis<br/>cache + rate limit")]
+    SVC -->|JPA / Hibernate| PG[("PostgreSQL<br/>indexed · pooled")]
+    SVC -->|Publish| K{{"Kafka<br/>domain events"}}
 
-        me.shipQualityCode();
-    }
-}
+    K --> WRK["Async Workers<br/>outbox · retries · DLQ"]
+    WRK --> PG
+
+    SVC --> OBS["Observability<br/>Actuator · Micrometer · Prometheus"]
+
+    classDef edge fill:#1f6feb,stroke:#58a6ff,color:#fff
+    classDef core fill:#238636,stroke:#3fb950,color:#fff
+    classDef data fill:#8957e5,stroke:#bc8cff,color:#fff
+    class C,GW edge
+    class AUTH,SVC,WRK core
+    class RD,PG,K,OBS data
 ```
+
+<details>
+<summary><b>The rules I hold myself to</b></summary>
+
+<br/>
+
+| Concern | How I handle it |
+| :-- | :-- |
+| **Correctness** | Idempotency keys on writes, transactional outbox for event publishing, optimistic locking on contended rows |
+| **Data access** | Explicit fetch plans over lazy-loading surprises; covering indexes; `EXPLAIN ANALYZE` before shipping |
+| **Concurrency** | Virtual threads / bounded pools over unbounded async; no shared mutable state across requests |
+| **Resilience** | Timeouts on every hop, circuit breakers, exponential backoff with jitter, dead-letter queues |
+| **Caching** | Read-through Redis with explicit TTLs and invalidation on write — never "cache and hope" |
+| **API design** | Versioned contracts, cursor pagination, RFC 7807 problem details, OpenAPI generated from code |
+| **Testing** | Testcontainers for real Postgres/Kafka in CI — no in-memory H2 lies |
+| **Observability** | Structured logs with trace IDs, RED metrics per endpoint, alerts on p99 not p50 |
+
+</details>
 
 ---
 
-<!-- ─────────────────────────────────────────────────── -->
-<!--   TECH STACK                                        -->
-<!-- ─────────────────────────────────────────────────── -->
-
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-#### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python&perline=3" alt="languages" />
-</p>
+#### ☕ Core Backend
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,go&perline=4" alt="core-backend" />
 
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,graphql,kafka,rabbitmq&perline=4" alt="backend" />
-</p>
+`Java 21` `Spring Boot 3` `Spring Security` `Spring Data JPA`
+`Hibernate` `Spring Cloud Gateway` `Resilience4j` `Maven / Gradle`
 
-</td>
-<td valign="top" width="33%">
+#### 🔌 APIs & Messaging
+<img src="https://skillicons.dev/icons?i=graphql,kafka,rabbitmq,nginx&perline=4" alt="apis" />
 
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=4" alt="databases" />
-</p>
+`REST` `GraphQL` `gRPC` `WebSockets` `Kafka` `RabbitMQ` `OpenAPI`
 
-#### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git&perline=3" alt="devops" />
-</p>
+#### 🗄️ Data
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4" alt="data" />
+
+`PostgreSQL` `Redis` `MongoDB` `Flyway` `Prisma` `Drizzle ORM`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css&perline=3" alt="frontend" />
-</p>
+#### 🌐 Frontend (when needed)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=4" alt="frontend" />
 
-#### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,figma,vscode,idea&perline=4" alt="tools" />
-</p>
+`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `shadcn/ui` `TanStack Query`
+
+#### 🟩 Node Ecosystem
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,vite&perline=4" alt="node" />
+
+`Node.js` `Bun` `Express` `Zod` `tRPC`
+
+#### ☁️ Platform & Tooling
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions&perline=6" alt="platform" />
+
+`Docker` `Kubernetes` `AWS` `GitHub Actions` `Prometheus` `Grafana` `Testcontainers`
 
 </td>
 </tr>
@@ -151,66 +168,53 @@ public class Swadesh {
 
 ---
 
-<!-- ─────────────────────────────────────────────────── -->
-<!--   GITHUB METRICS                                    -->
-<!-- ─────────────────────────────────────────────────── -->
+### 🚀 Featured Work
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **[Loophire](https://github.com/swadesh-231)** | AI interviewer & talent marketplace — resume-driven question generation, hand-rolled JWT + OAuth + RBAC | `Bun` `TypeScript` `Express` `React` |
+| **[AI CSV Lead Importer](https://github.com/swadesh-231)** | Two-stage profiling + batch extraction pipeline mapping arbitrary CSVs onto a fixed 15-field CRM schema | `LLM` `Node` `TypeScript` |
+| **[Stays](https://github.com/swadesh-231)** | Airbnb-style rental marketplace with search, booking and payments | `Next.js 16` `Prisma` `Postgres` `Better Auth` |
+| **[Ledger](https://github.com/swadesh-231)** | Expense tracker with categorized analytics and a typed API layer | `Bun` `TypeScript` `React` |
+| **[Job Application Agent](https://github.com/swadesh-231)** | Agentic workflow that tailors and submits applications end to end | `TypeScript` `LLM` |
+
+> Swap these links for the real repo URLs — the table structure is ready.
+
+---
 
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swadesh-231&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swadesh-231&theme=tokyonight" alt="stats" height="195" />
+  <img src="https://streak-stats.demolab.com?user=swadesh-231&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swadesh-231&theme=tokyonight" alt="stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadesh-231&theme=tokyonight" alt="top-langs" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swadesh-231&theme=tokyonight&utcOffset=5.5" alt="productive-time" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadesh-231&theme=tokyonight" alt="top-langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swadesh-231&theme=tokyonight&utcOffset=5.5" alt="productive-time" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadesh-231&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true&area=true" alt="activity-graph" />
 </p>
 
----
-
-<!-- ─────────────────────────────────────────────────── -->
-<!--   TROPHIES                                          -->
-<!-- ─────────────────────────────────────────────────── -->
-
-### 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swadesh-231&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swadesh-231&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
-
-<!-- ─────────────────────────────────────────────────── -->
-<!--   CONNECT                                           -->
-<!-- ─────────────────────────────────────────────────── -->
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swadeshchatterjee/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/Swadesh072" target="_blank">
-    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
-  <a href="https://github.com/swadesh-231" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/swadesh072/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="mailto:swadeshchatterjee512@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/swadesh-231">swadesh-231</a> &mdash; Thanks for stopping by!</i>
+
+### 🤝 Open to backend & platform engineering roles
+
+**Java · Spring Boot · Distributed Systems**
+
+<a href="https://www.linkedin.com/in/swadeshchatterjee/"><img src="https://img.shields.io/badge/-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:swadeshchatterjee512@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<i>⭐ From <a href="https://github.com/swadesh-231">swadesh-231</a> — thanks for stopping by.</i>
+
 </div>
