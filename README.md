@@ -57,11 +57,11 @@ that consumes it. One person, one coherent system, no handoff gaps.
 - Sharpening **DSA on LeetCode**: optimal complexity, clean and readable solutions
 
 </td>
-<td valign="top" width="44%">
+<!-- <td valign="top" width="44%"> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadesh-231&theme=tokyonight" alt="profile-details" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadesh-231&theme=tokyonight" alt="profile-details" /> -->
 
-</td>
+<!-- </td> -->
 </tr>
 </table>
 
