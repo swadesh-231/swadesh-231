@@ -2,9 +2,9 @@
 
 # Swadesh Chatterjee
 
-### Full-Stack Engineer
+**Full-Stack Engineer** · Bengaluru, India
 
-Schema to screen — I model the data, design the contract, build the service, and ship the interface that consumes it.
+Schema to screen — I model the data, design the contract, build the service,<br/>and ship the interface that consumes it.
 
 <a href="https://www.swadesh.cc"><img src="https://img.shields.io/badge/Portfolio-swadesh.cc-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/swadeshchatterjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,15 +12,25 @@ Schema to screen — I model the data, design the contract, build the service, a
 <a href="https://leetcode.com/u/swadesh072/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:swadeshchatterjee512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://img.shields.io/badge/Bengaluru-India-3FB950?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/Open_to-Full--Stack_Roles-58A6FF?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/github/followers/swadesh-231?style=flat-square&logo=github&label=Followers&color=BC8CFF" alt="Followers" />
+<img src="https://img.shields.io/badge/Notice-Immediate-3FB950?style=flat-square" alt="Availability" />
+<img src="https://img.shields.io/badge/Timezone-IST_(UTC+5:30)-BC8CFF?style=flat-square" alt="Timezone" />
+<img src="https://img.shields.io/github/followers/swadesh-231?style=flat-square&logo=github&label=Followers&color=6E7681" alt="Followers" />
+
+<br/>
+
+<a href="#01-about"><img src="https://img.shields.io/badge/01-About-0D1117?style=flat-square&labelColor=1F6FEB" alt="About" /></a>
+<a href="#02-architecture"><img src="https://img.shields.io/badge/02-Architecture-0D1117?style=flat-square&labelColor=1F6FEB" alt="Architecture" /></a>
+<a href="#03-delivery"><img src="https://img.shields.io/badge/03-Delivery-0D1117?style=flat-square&labelColor=1F6FEB" alt="Delivery" /></a>
+<a href="#04-stack"><img src="https://img.shields.io/badge/04-Stack-0D1117?style=flat-square&labelColor=1F6FEB" alt="Stack" /></a>
+<a href="#05-selected-work"><img src="https://img.shields.io/badge/05-Work-0D1117?style=flat-square&labelColor=1F6FEB" alt="Work" /></a>
+<a href="#06-problem-solving"><img src="https://img.shields.io/badge/06-Problem_Solving-0D1117?style=flat-square&labelColor=1F6FEB" alt="Problem Solving" /></a>
 
 </div>
 
 ---
 
-## 01 · About
+## 01 About
 
 <table>
 <tr>
@@ -64,7 +74,9 @@ const now = {
 
 ---
 
-## 02 · How I Build a Product
+## 02 Architecture
+
+The shape most of my systems converge on.
 
 ```mermaid
 flowchart LR
@@ -146,7 +158,37 @@ sequenceDiagram
 
 ---
 
-## 03 · Stack
+## 03 Delivery
+
+How a feature actually lands — schema first, interface last, nothing merged without a green pipeline.
+
+```mermaid
+gitGraph
+    commit id: "main"
+    branch feat/orders
+    checkout feat/orders
+    commit id: "schema + migration"
+    commit id: "domain service"
+    commit id: "contract + validation"
+    commit id: "integration tests"
+    commit id: "UI + loading states"
+    checkout main
+    merge feat/orders tag: "v1.4.0"
+    commit id: "metrics + alerts"
+```
+
+| Stage | What ships with it |
+| :-- | :-- |
+| **Model** | Migration, indexes chosen against real query patterns, rollback path |
+| **Contract** | Typed request/response, validation at the boundary, documented endpoint |
+| **Service** | Business rules isolated from transport, transactional and idempotent |
+| **Verify** | Integration tests on real Postgres via Testcontainers, not mocks |
+| **Interface** | Server components, optimistic writes, honest error and empty states |
+| **Operate** | Structured logs with trace IDs, p99 dashboards, alert thresholds |
+
+---
+
+## 04 Stack
 
 <table>
 <tr>
@@ -183,9 +225,19 @@ sequenceDiagram
 </tr>
 </table>
 
+```mermaid
+pie showData
+    title Where my code lives
+    "Java / Spring" : 34
+    "TypeScript" : 28
+    "JavaScript" : 22
+    "CSS" : 10
+    "HTML" : 6
+```
+
 ---
 
-## 04 · Selected Work
+## 05 Selected Work
 
 <table>
 <tr>
@@ -195,8 +247,10 @@ sequenceDiagram
 
 Agentic app builder — prompt in, running app out. Streams the build
 over SSE, renders a live Sandpack preview, exports source as a zip.
-Credit-metered plans and role-scoped model chains across OpenAI,
-Gemini and Groq.
+
+**Hard part:** keeping a long-lived SSE stream, credit metering and
+role-scoped model fallback (OpenAI → Gemini → Groq) consistent when
+a generation fails halfway.
 
 `Next.js 16` `React 19` `Prisma` `Neon` `Clerk` `Bun`
 
@@ -206,8 +260,10 @@ Gemini and Groq.
 ### [Photo AI Studio](https://github.com/swadesh-231)
 
 Upload, preview and transform photos — background removal and
-anime/avatar styles — behind a Google Photos-style library shell,
-with transformation state persisted per asset.
+anime/avatar styles — behind a Google Photos-style library shell.
+
+**Hard part:** treating each transform as an immutable derived asset
+so the original is never mutated and every variant stays addressable.
 
 `Spring Boot 4` `Spring AI` `JPA` `Next.js` `ImageKit`
 
@@ -219,8 +275,10 @@ with transformation state persisted per asset.
 ### [Loophire](https://github.com/swadesh-231)
 
 AI interviewer and talent marketplace — resume-driven question
-generation, scored transcripts, and hand-rolled JWT + OAuth + RBAC
-instead of a managed auth provider.
+generation with scored transcripts.
+
+**Hard part:** hand-rolling JWT + OAuth + RBAC instead of a managed
+provider — rotation, refresh reuse detection, role-scoped routes.
 
 `Bun` `TypeScript` `Express` `React`
 
@@ -230,8 +288,10 @@ instead of a managed auth provider.
 ### [Choco Cart](https://github.com/swadesh-231)
 
 Full e-commerce storefront with an admin panel for catalogue,
-orders and inventory — typed data access throughout, auth handled
-at the edge.
+orders and inventory.
+
+**Hard part:** keeping stock, cart and order state truthful under
+concurrent checkouts without overselling.
 
 `Next.js` `Drizzle ORM` `Neon` `Better Auth`
 
@@ -243,8 +303,10 @@ at the edge.
 ### [Stays](https://github.com/swadesh-231)
 
 Airbnb-style rental marketplace — search, availability windows,
-booking and payments, with overlap-safe reservation logic and bot
-protection on write paths.
+booking and payments.
+
+**Hard part:** overlap-safe reservations — range constraints in the
+database rather than optimistic checks in application code.
 
 `Next.js 16` `Prisma` `PostgreSQL` `Arcjet`
 
@@ -253,9 +315,11 @@ protection on write paths.
 
 ### [AI CSV Lead Importer](https://github.com/swadesh-231)
 
-Two-stage profiling and batch extraction pipeline that maps
-arbitrary CSV shapes onto a fixed 15-field CRM schema — profile
-first, then extract in batches with validation and retries.
+Two-stage profiling and batch extraction pipeline mapping arbitrary
+CSV shapes onto a fixed 15-field CRM schema.
+
+**Hard part:** profiling the file once to infer a mapping, then
+extracting in batches so token cost stays flat as rows grow.
 
 `LLM` `Node.js` `TypeScript`
 
@@ -278,7 +342,7 @@ first, then extract in batches with validation and retries.
 
 ---
 
-## 05 · Problem Solving
+## 06 Problem Solving
 
 Consistent practice on **[LeetCode](https://leetcode.com/u/swadesh072/)** — arrays, graphs, dynamic
 programming and system-design fundamentals. It shows up in the work: better complexity choices,
